@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\pxthe\Downloads\Calculator C++\build\_deps\glfw-subbuild\CMakeFiles\b17a11e003af809eab003d64ca83bc4b\glfw-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\pxthe\Downloads\Calculator C++\build\_deps\glfw-subbuild\CMakeFiles\b17a11e003af809eab003d64ca83bc4b\glfw-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\pxthe\Downloads\Calculator C++\build\_deps\glfw-subbuild\CMakeFiles\b17a11e003af809eab003d64ca83bc4b\glfw-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\pxthe\Downloads\Calculator C++\build\_deps\glfw-subbuild\CMakeFiles\b17a11e003af809eab003d64ca83bc4b\glfw-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\pxthe\Downloads\Calculator C++\build\_deps\glfw-subbuild\CMakeFiles\b17a11e003af809eab003d64ca83bc4b\glfw-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\pxthe\Downloads\Calculator C++\build\_deps\glfw-subbuild\CMakeFiles\b17a11e003af809eab003d64ca83bc4b\glfw-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\pxthe\Downloads\Calculator C++\build\_deps\glfw-subbuild\CMakeFiles\b17a11e003af809eab003d64ca83bc4b\glfw-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\pxthe\Downloads\Calculator C++\build\_deps\glfw-subbuild\CMakeFiles\b17a11e003af809eab003d64ca83bc4b\glfw-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\pxthe\Downloads\Calculator C++\build\_deps\glfw-subbuild\CMakeFiles\513b0efad269491ca58d62c60672cb5b\glfw-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\pxthe\Downloads\Calculator C++\build\_deps\glfw-subbuild\CMakeFiles\beb5a86bdb0884f215bae6a84bb42e17\glfw-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\pxthe\Downloads\Calculator C++\build\_deps\glfw-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\pxthe\Downloads\Calculator C++\build\_deps\glfw-subbuild\CMakeFiles\glfw-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{3356FDB4-E176-34FE-9BEA-5131609D31B7}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

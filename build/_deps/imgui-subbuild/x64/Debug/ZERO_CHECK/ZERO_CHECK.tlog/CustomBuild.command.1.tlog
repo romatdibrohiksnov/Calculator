@@ -1,0 +1,10 @@
+^C:\USERS\PXTHE\DOWNLOADS\CALCULATOR C++\BUILD\_DEPS\IMGUI-SUBBUILD\CMAKEFILES\D399B87C284094BE46CA4671C9E90B81\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/pxthe/Downloads/Calculator C++/build/_deps/imgui-subbuild" "-BC:/Users/pxthe/Downloads/Calculator C++/build/_deps/imgui-subbuild" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/pxthe/Downloads/Calculator C++/build/_deps/imgui-subbuild/imgui-populate.slnx"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\pxthe\Downloads\Calculator C++\build\CMakeFiles\54b14ad3adb3dc1c326d1b90af56be2b\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{6899F171-1E6F-3D90-9C53-3EFA26FB5AF3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

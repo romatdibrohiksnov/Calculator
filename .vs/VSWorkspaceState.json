@@ -1,0 +1,22 @@
+{
+  "OutputFoldersPerTargetSystem": {
+    "Local Machine": [
+      "out\\build\\x64-Debug",
+      "out\\install\\x64-Debug"
+    ]
+  },
+  "ExpandedNodes": [
+    "",
+    "\\assets",
+    "\\assets\\icons",
+    "\\assets\\themes",
+    "\\out",
+    "\\out\\build",
+    "\\src",
+    "\\src\\core",
+    "\\src\\ui",
+    "\\src\\utils"
+  ],
+  "SelectedNode": "\\src\\main.cpp",
+  "PreviewInSolutionExplorer": false
+}

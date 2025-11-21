@@ -1,0 +1,14 @@
+# Target labels
+ glfw-populate
+# Source files and their labels
+C:/Users/pxthe/Downloads/Calculator C++/build/_deps/glfw-subbuild/CMakeFiles/glfw-populate
+C:/Users/pxthe/Downloads/Calculator C++/build/_deps/glfw-subbuild/CMakeFiles/beb5a86bdb0884f215bae6a84bb42e17/glfw-populate.rule
+C:/Users/pxthe/Downloads/Calculator C++/build/_deps/glfw-subbuild/CMakeFiles/513b0efad269491ca58d62c60672cb5b/glfw-populate-complete.rule
+C:/Users/pxthe/Downloads/Calculator C++/build/_deps/glfw-subbuild/CMakeFiles/b17a11e003af809eab003d64ca83bc4b/glfw-populate-build.rule
+C:/Users/pxthe/Downloads/Calculator C++/build/_deps/glfw-subbuild/CMakeFiles/b17a11e003af809eab003d64ca83bc4b/glfw-populate-configure.rule
+C:/Users/pxthe/Downloads/Calculator C++/build/_deps/glfw-subbuild/CMakeFiles/b17a11e003af809eab003d64ca83bc4b/glfw-populate-download.rule
+C:/Users/pxthe/Downloads/Calculator C++/build/_deps/glfw-subbuild/CMakeFiles/b17a11e003af809eab003d64ca83bc4b/glfw-populate-install.rule
+C:/Users/pxthe/Downloads/Calculator C++/build/_deps/glfw-subbuild/CMakeFiles/b17a11e003af809eab003d64ca83bc4b/glfw-populate-mkdir.rule
+C:/Users/pxthe/Downloads/Calculator C++/build/_deps/glfw-subbuild/CMakeFiles/b17a11e003af809eab003d64ca83bc4b/glfw-populate-patch.rule
+C:/Users/pxthe/Downloads/Calculator C++/build/_deps/glfw-subbuild/CMakeFiles/b17a11e003af809eab003d64ca83bc4b/glfw-populate-test.rule
+C:/Users/pxthe/Downloads/Calculator C++/build/_deps/glfw-subbuild/CMakeFiles/b17a11e003af809eab003d64ca83bc4b/glfw-populate-update.rule

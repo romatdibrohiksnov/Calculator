@@ -1,0 +1,37 @@
+# ninja log v6
+4	251	7853864619188430	imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-mkdir	e030131b800c4932
+4	251	7853864619188430	C:/Users/pxthe/Downloads/Calculator C++/out/build/x64-Debug/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-mkdir	e030131b800c4932
+4	455	7853886781537676	imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-update	e0809b8b08d5b4b8
+1033	1221	7853886793643199	imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-install	ebb3978fd639cfca
+834	1033	7853886791639078	C:/Users/pxthe/Downloads/Calculator C++/out/build/x64-Debug/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-build	533d0ce026dbd37c
+456	649	7853886787927490	C:/Users/pxthe/Downloads/Calculator C++/out/build/x64-Debug/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-patch	3cc057a0eadae54b
+253	76241	7853865378986640	imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-download	ed1000dddacfc4e9
+456	649	7853886787927490	imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-patch	3cc057a0eadae54b
+253	76241	7853865378986640	C:/Users/pxthe/Downloads/Calculator C++/out/build/x64-Debug/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-download	ed1000dddacfc4e9
+4	455	7853886781537676	C:/Users/pxthe/Downloads/Calculator C++/out/build/x64-Debug/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-update	e0809b8b08d5b4b8
+650	833	7853886789761466	imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-configure	f66d101be841a785
+650	833	7853886789761466	C:/Users/pxthe/Downloads/Calculator C++/out/build/x64-Debug/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-configure	f66d101be841a785
+834	1033	7853886791639078	imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-build	533d0ce026dbd37c
+1408	1681	7853886798139044	CMakeFiles/imgui-populate-complete	1db562b5ab5b5445
+1033	1221	7853886793643199	C:/Users/pxthe/Downloads/Calculator C++/out/build/x64-Debug/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-install	ebb3978fd639cfca
+1221	1408	7853886795511488	imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-test	83f991d28a3d581a
+1221	1408	7853886795511488	C:/Users/pxthe/Downloads/Calculator C++/out/build/x64-Debug/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-test	83f991d28a3d581a
+1408	1681	7853886798139044	imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-done	1db562b5ab5b5445
+1408	1681	7853886798139044	C:/Users/pxthe/Downloads/Calculator C++/out/build/x64-Debug/_deps/imgui-subbuild/CMakeFiles/imgui-populate-complete	1db562b5ab5b5445
+1408	1681	7853886798139044	C:/Users/pxthe/Downloads/Calculator C++/out/build/x64-Debug/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-done	1db562b5ab5b5445
+3	4063	7853898931537068	imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-update	e0809b8b08d5b4b8
+3	4063	7853898931537068	C:/Users/pxthe/Downloads/Calculator C++/out/build/x64-Debug/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-update	e0809b8b08d5b4b8
+4063	4242	7853898973861059	imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-patch	3cc057a0eadae54b
+4063	4242	7853898973861059	C:/Users/pxthe/Downloads/Calculator C++/out/build/x64-Debug/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-patch	3cc057a0eadae54b
+4243	4427	7853898975609185	imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-configure	f66d101be841a785
+4243	4427	7853898975609185	C:/Users/pxthe/Downloads/Calculator C++/out/build/x64-Debug/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-configure	f66d101be841a785
+4427	4601	7853898977461848	imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-build	533d0ce026dbd37c
+4427	4601	7853898977461848	C:/Users/pxthe/Downloads/Calculator C++/out/build/x64-Debug/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-build	533d0ce026dbd37c
+4602	4780	7853898979239527	imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-install	ebb3978fd639cfca
+4602	4780	7853898979239527	C:/Users/pxthe/Downloads/Calculator C++/out/build/x64-Debug/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-install	ebb3978fd639cfca
+4780	4959	7853898981021328	imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-test	83f991d28a3d581a
+4780	4959	7853898981021328	C:/Users/pxthe/Downloads/Calculator C++/out/build/x64-Debug/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-test	83f991d28a3d581a
+4959	5238	7853898983815751	CMakeFiles/imgui-populate-complete	1db562b5ab5b5445
+4959	5238	7853898983815751	imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-done	1db562b5ab5b5445
+4959	5238	7853898983815751	C:/Users/pxthe/Downloads/Calculator C++/out/build/x64-Debug/_deps/imgui-subbuild/CMakeFiles/imgui-populate-complete	1db562b5ab5b5445
+4959	5238	7853898983815751	C:/Users/pxthe/Downloads/Calculator C++/out/build/x64-Debug/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-done	1db562b5ab5b5445
